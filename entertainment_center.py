@@ -14,7 +14,7 @@ fantastic_beasts = media.Movie("Fantastic Beasts and Where to Find Them",
 doctor_strange = media.Movie("Doctor Strange",
                 "A former neurosurgeon embarks on a journey of healing only to be drawn into the world of the mystic arts.",
                 "https://resizing.flixster.com/CBPV4WpDIVsoQkrVYE-zJ8RZmoE=/206x305/v1.bTsxMjE3OTkzMTtqOzE3MTk1OzEyMDA7Mzg3OzU3Ng",
-                "https://www.youtube.com/watch?v=YdgQj7xcDJo")
+                "https://www.youtube.com/watch?v=HSzx-zryEgM")
 
 movies = [moana, fantastic_beasts, doctor_strange]
 fresh_tomatoes.open_movies_page(movies)
